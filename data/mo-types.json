@@ -1,0 +1,2116 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "DC Output Distribution",
+      "typeId": 60009,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Bus Coupler Cabinet",
+      "typeId": 50203,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50010],
+      "vendor": null,
+      "typeName": "DC Mains Input",
+      "typeId": 50011,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Single-Phase STS",
+      "typeId": 50309,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59994],
+      "vendor": null,
+      "typeName": "Smart Module Aisle",
+      "typeId": 51003,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Power Module",
+      "typeId": 50806,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59999],
+      "vendor": null,
+      "typeName": "Branch",
+      "typeId": 59992,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988, 59995],
+      "vendor": null,
+      "typeName": "Water Cooled Chiller",
+      "typeId": 50602,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988, 59993],
+      "vendor": null,
+      "typeName": "AHU",
+      "typeId": 50821,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50300],
+      "vendor": null,
+      "typeName": "AC Three-Phase Mains",
+      "typeId": 50301,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Mains",
+      "typeId": 60001,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Air Cooled Chiller",
+      "typeId": 50700,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Heat Exchanger",
+      "typeId": 60024,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "EMI",
+      "typeId": 20824,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "STS",
+      "typeId": 20847,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Medium-Voltage Bus Coupler Cabinet",
+      "typeId": 50007,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59987],
+      "vendor": null,
+      "typeName": "Battery Cluster",
+      "typeId": 50504,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20800],
+      "vendor": null,
+      "typeName": "PV Plant",
+      "typeId": 20801,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Low Voltage Cabinet",
+      "typeId": 50215,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Hot-Aisle",
+      "typeId": 50818,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Global Cabinet",
+      "typeId": 51014,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Power Distribution Unit",
+      "typeId": 59981,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Generator Grounding Resistance Cabinet",
+      "typeId": 50105,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Outdoor Fans",
+      "typeId": 50810,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60073],
+      "vendor": null,
+      "typeName": "ECM",
+      "typeId": 60074,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "AI Chiller Teamwork Control System",
+      "typeId": 50614,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60019],
+      "vendor": null,
+      "typeName": "Lock",
+      "typeId": 60051,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50000],
+      "vendor": null,
+      "typeName": "Ground isolator",
+      "typeId": 50313,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400, 50401, 50408],
+      "vendor": null,
+      "typeName": "UPS Single-Phase Output Module",
+      "typeId": 50406,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "AC Input Distribution",
+      "typeId": 60013,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60035],
+      "vendor": null,
+      "typeName": "HVDC",
+      "typeId": 60036,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50010],
+      "vendor": null,
+      "typeName": "DC Output Branch",
+      "typeId": 50012,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Test Cabinet",
+      "typeId": 50204,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Electrode Humidifier",
+      "typeId": 50805,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "rPDU Three-Phase Input",
+      "typeId": 51002,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Water Supply Equipment",
+      "typeId": 50601,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Air Return",
+      "typeId": 50820,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50300],
+      "vendor": null,
+      "typeName": "Three-Phase Branch",
+      "typeId": 50302,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988, 59995],
+      "vendor": null,
+      "typeName": "Chilled Water Bypass Pipe",
+      "typeId": 50609,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Busway",
+      "typeId": 51100,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "TEC",
+      "typeId": 60023,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "PV Array",
+      "typeId": 60000,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60068],
+      "vendor": null,
+      "typeName": "DC Distribution Unit",
+      "typeId": 60069,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Electric Metering Cabinet",
+      "typeId": 50008,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "Company",
+      "typeId": 20800,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Cold-Aisle",
+      "typeId": 50817,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Mains Cable Inlet Cabinet",
+      "typeId": 50000,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "rPDU",
+      "typeId": 51013,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988, 59994, 59998, 59996],
+      "vendor": null,
+      "typeName": "Chiller Teamwork Control System",
+      "typeId": 50613,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50100],
+      "vendor": null,
+      "typeName": "Fuel Tank",
+      "typeId": 50106,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "Site",
+      "typeId": 59991,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [69999],
+      "vendor": null,
+      "typeName": "Inverter Unit",
+      "typeId": 60073,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51100],
+      "vendor": null,
+      "typeName": "General Input Unit",
+      "typeId": 50314,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400, 50401, 50408],
+      "vendor": null,
+      "typeName": "UPS Single-Phase Input Module",
+      "typeId": 50405,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50504],
+      "vendor": null,
+      "typeName": "Lithium Battery Group",
+      "typeId": 50503,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [69999],
+      "vendor": null,
+      "typeName": "DC Load",
+      "typeId": 60058,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60009],
+      "vendor": null,
+      "typeName": "User Branch",
+      "typeId": 60012,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "HVDC Group",
+      "typeId": 60035,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50702],
+      "vendor": null,
+      "typeName": "Cooling Tower Fan",
+      "typeId": 50702,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20810],
+      "vendor": null,
+      "typeName": "MPPT",
+      "typeId": 20811,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Feed Cabinet",
+      "typeId": 50201,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "rPDU Single-Phase Input",
+      "typeId": 51001,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Constant-Frequency Compressor",
+      "typeId": 50808,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "ATS",
+      "typeId": 50307,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59999],
+      "vendor": null,
+      "typeName": "Park",
+      "typeId": 59998,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Vibration Sensor",
+      "typeId": 51024,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "Storage Devices",
+      "typeId": 51009,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Exhaust Air",
+      "typeId": 50823,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990, 59995, 59994, 59993],
+      "vendor": null,
+      "typeName": "Air Cooled Air Conditioner",
+      "typeId": 50800,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Switching Valve",
+      "typeId": 50604,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Low-Voltage Filter Cabinet",
+      "typeId": 50209,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "Dongle",
+      "typeId": 20819,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "HVDC Input Distribution",
+      "typeId": 60007,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Air Conditioner",
+      "typeId": 60022,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "Inverter",
+      "typeId": 20822,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50004],
+      "vendor": null,
+      "typeName": "Mains Cable Outlet Cabinet Mains Input",
+      "typeId": 50005,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50212],
+      "vendor": null,
+      "typeName": "Capacitance",
+      "typeId": 50213,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Access Controller",
+      "typeId": 60019,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59994],
+      "vendor": null,
+      "typeName": "Fire Cylinders",
+      "typeId": 51012,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59999],
+      "vendor": null,
+      "typeName": "Battery Room",
+      "typeId": 59987,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989, 59995, 59992, 59994, 59993],
+      "vendor": null,
+      "typeName": "Modular UPS",
+      "typeId": 50400,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Air Conditioner Teamwork",
+      "typeId": 50812,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50100],
+      "vendor": null,
+      "typeName": "DG Fuel Pipe",
+      "typeId": 50103,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50615],
+      "vendor": null,
+      "typeName": "Dry Cooler Fan",
+      "typeId": 50616,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989, 59995, 59992, 59993],
+      "vendor": null,
+      "typeName": "Power Distribution Panel",
+      "typeId": 50311,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "Room Environment",
+      "typeId": 60072,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989, 59995, 59992, 59994, 59993],
+      "vendor": null,
+      "typeName": "Rack UPS Equipment",
+      "typeId": 50408,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Power",
+      "typeId": 69999,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60010],
+      "vendor": null,
+      "typeName": "Load Branch",
+      "typeId": 60011,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Maintenance Bypass",
+      "typeId": 50202,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59999],
+      "vendor": null,
+      "typeName": "Microgrid System",
+      "typeId": 51023,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "IT Cabinet",
+      "typeId": 51000,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989, 59995, 59992, 59993],
+      "vendor": null,
+      "typeName": "DC Power Distribution Cabinet",
+      "typeId": 50010,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Electronic Expansion Valve",
+      "typeId": 50807,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Building",
+      "typeId": 59997,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Three-Phase STS",
+      "typeId": 50308,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "Router",
+      "typeId": 51008,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Fresh Air",
+      "typeId": 50822,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Precision PDC",
+      "typeId": 50300,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "Fingerprint Reader",
+      "typeId": 60021,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Pipe",
+      "typeId": 50603,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59995],
+      "vendor": null,
+      "typeName": "Glass Break Sensor",
+      "typeId": 60006,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Smoke Sensor",
+      "typeId": 60029,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60043],
+      "vendor": null,
+      "typeName": "PV Module",
+      "typeId": 60044,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20810],
+      "vendor": null,
+      "typeName": "Safety Box",
+      "typeId": 20818,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Cooling Tower",
+      "typeId": 50701,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Site Unit",
+      "typeId": 60067,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50004],
+      "vendor": null,
+      "typeName": "Mains Cable Outlet Cabinet Output Branch",
+      "typeId": 50006,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51001],
+      "vendor": null,
+      "typeName": "Wire Frame",
+      "typeId": 51011,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50503],
+      "vendor": null,
+      "typeName": "Lithium Battery",
+      "typeId": 50505,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "DC Power Cabinet",
+      "typeId": 50214,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "SmartLogger",
+      "typeId": 20821,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Air Supply",
+      "typeId": 50819,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Manometer",
+      "typeId": 51019,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Parallel Generator Cabinet",
+      "typeId": 50104,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Forced Drainage Equipment",
+      "typeId": 50811,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "AC Output Distribution",
+      "typeId": 60010,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Dry Cooler",
+      "typeId": 50615,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50300],
+      "vendor": null,
+      "typeName": "Arrester",
+      "typeId": 50312,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400, 50401, 50408],
+      "vendor": null,
+      "typeName": "Parallel UPS",
+      "typeId": 50407,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "AC Meter Channel",
+      "typeId": 60071,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60031],
+      "vendor": null,
+      "typeName": "Air Conditioner Controller",
+      "typeId": 60056,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Heat Tank",
+      "typeId": 50704,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59999],
+      "vendor": null,
+      "typeName": "Gas concentration",
+      "typeId": 51022,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59997],
+      "vendor": null,
+      "typeName": "Floor",
+      "typeId": 59996,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Air Outlet",
+      "typeId": 50825,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990, 59995, 59994, 59993],
+      "vendor": null,
+      "typeName": "Dual Cooling Source Air Conditioner",
+      "typeId": 50802,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "Server",
+      "typeId": 51007,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Water Pump",
+      "typeId": 50606,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "PV Module Group",
+      "typeId": 60043,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59995],
+      "vendor": null,
+      "typeName": "Infrared Sensor",
+      "typeId": 60005,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50206],
+      "vendor": null,
+      "typeName": "Cable Distribution Cabinet Mains Input",
+      "typeId": 50207,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20810],
+      "vendor": null,
+      "typeName": "Smart Backup Box",
+      "typeId": 20817,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "DCDC",
+      "typeId": 60066,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Drawer Unit",
+      "typeId": 50211,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51000],
+      "vendor": null,
+      "typeName": "False Panel",
+      "typeId": 51010,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "DG Cable Inlet Cabinet",
+      "typeId": 50003,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "Subnet",
+      "typeId": 59985,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400],
+      "vendor": null,
+      "typeName": "Ups Three-Phase Input Module",
+      "typeId": 50402,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Wet Film Humidifier",
+      "typeId": 50814,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Outdoor Weather",
+      "typeId": 51018,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Cooling Water Outlet Pipe",
+      "typeId": 50610,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50100],
+      "vendor": null,
+      "typeName": "DG Engine",
+      "typeId": 50101,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Ventilation",
+      "typeId": 60032,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "AC Meter",
+      "typeId": 60070,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988, 59995],
+      "vendor": null,
+      "typeName": "Cooling Distribute Unit",
+      "typeId": 50618,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60016],
+      "vendor": null,
+      "typeName": "Battery String",
+      "typeId": 60017,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Inverter Group",
+      "typeId": 60055,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60069],
+      "vendor": null,
+      "typeName": "Tenant",
+      "typeId": 60078,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998, 59995],
+      "vendor": null,
+      "typeName": "Chilled Water Tank",
+      "typeId": 50703,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Transformer",
+      "typeId": 50200,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Water Leak Detection",
+      "typeId": 51021,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Heater",
+      "typeId": 50809,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990, 59995, 59994, 59993],
+      "vendor": null,
+      "typeName": "Chilled Water Air Conditioner",
+      "typeId": 50801,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Air Inlet",
+      "typeId": 50824,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51001],
+      "vendor": null,
+      "typeName": "Beacon",
+      "typeId": 51006,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Room",
+      "typeId": 59995,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Valve Regulator",
+      "typeId": 50605,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60064],
+      "vendor": null,
+      "typeName": "Fan",
+      "typeId": 60065,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60041],
+      "vendor": null,
+      "typeName": "MIMO",
+      "typeId": 60042,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Fuel Tank",
+      "typeId": 60004,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50206],
+      "vendor": null,
+      "typeName": "Cable Distribution Cabinet Output Branch",
+      "typeId": 50208,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20810],
+      "vendor": null,
+      "typeName": "Power Sensor",
+      "typeId": 20816,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Capacitance Compensation Cabinet",
+      "typeId": 50212,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Mains Cable Outlet Cabinet",
+      "typeId": 50004,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59995],
+      "vendor": null,
+      "typeName": "Fusion Power",
+      "typeId": 59984,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989, 59995, 59992, 59994, 59993],
+      "vendor": null,
+      "typeName": "Tower UPS",
+      "typeId": 50401,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Thermal Expansion Valve",
+      "typeId": 50813,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Temperature And Humidity",
+      "typeId": 51017,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60039],
+      "vendor": null,
+      "typeName": "Inverter",
+      "typeId": 60054,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50100],
+      "vendor": null,
+      "typeName": "DG Alternator",
+      "typeId": 50102,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Integrated PDU",
+      "typeId": 50310,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Heat Pump Unit",
+      "typeId": 50617,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400, 50401, 50408],
+      "vendor": null,
+      "typeName": "Single-Phase Bypass Input Module",
+      "typeId": 50409,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Battery Group",
+      "typeId": 60016,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Rectifier Group",
+      "typeId": 60039,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60010],
+      "vendor": null,
+      "typeName": "General Distribution Branch",
+      "typeId": 60077,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "UPS Output Cabinet",
+      "typeId": 50205,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Flow Meter",
+      "typeId": 51020,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Pillars",
+      "typeId": 51005,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Surface Cooler (Coil)",
+      "typeId": 50804,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59995],
+      "vendor": null,
+      "typeName": "Smart Module",
+      "typeId": 59994,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Plate Heat Exchanger",
+      "typeId": 50600,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "MIMO Group",
+      "typeId": 60041,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [69999],
+      "vendor": null,
+      "typeName": "Fan Group",
+      "typeId": 60064,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50300],
+      "vendor": null,
+      "typeName": "Dual-Live Wire Branch",
+      "typeId": 50303,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Chilled Water Return Pipe",
+      "typeId": 50608,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Controller",
+      "typeId": 60026,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "ATS",
+      "typeId": 60049,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20810],
+      "vendor": null,
+      "typeName": "Battery",
+      "typeId": 20815,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60002],
+      "vendor": null,
+      "typeName": "Genset",
+      "typeId": 60003,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Cable Inlet Switchgear",
+      "typeId": 50001,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Controller",
+      "typeId": 51016,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400],
+      "vendor": null,
+      "typeName": "UPS Three-Phase Output Module",
+      "typeId": 50404,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "Container",
+      "typeId": 59983,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Indoor Fans",
+      "typeId": 50816,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Cooling Water Bypass Pipe",
+      "typeId": 50612,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Water Sensor",
+      "typeId": 60030,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60067],
+      "vendor": null,
+      "typeName": "Branch Group",
+      "typeId": 60076,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50314],
+      "vendor": null,
+      "typeName": "Power Distribution Unit",
+      "typeId": 50315,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60014],
+      "vendor": null,
+      "typeName": "Lithium Battery",
+      "typeId": 60015,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60037],
+      "vendor": null,
+      "typeName": "48V to 24V Module",
+      "typeId": 60038,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50501],
+      "vendor": null,
+      "typeName": "Battery",
+      "typeId": 50502,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "MBUS",
+      "typeId": 20826,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Battery Cabinet",
+      "typeId": 50009,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Camera",
+      "typeId": 50901,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Fan",
+      "typeId": 50705,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20812],
+      "vendor": null,
+      "typeName": "Optimizer",
+      "typeId": 20814,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Cable Distribution Cabinet",
+      "typeId": 50206,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [51001],
+      "vendor": null,
+      "typeName": "rPDU Socket",
+      "typeId": 51004,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990, 59995, 59994, 59993],
+      "vendor": null,
+      "typeName": "Fan Wall",
+      "typeId": 50826,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Variable-Frequency Compressor",
+      "typeId": 50803,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "ContainerDC",
+      "typeId": 59993,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60039],
+      "vendor": null,
+      "typeName": "Rectifier",
+      "typeId": 60040,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Heater",
+      "typeId": 60063,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Chilled Water Supply Pipe",
+      "typeId": 50607,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50300],
+      "vendor": null,
+      "typeName": "Single-Phase Branch",
+      "typeId": 50304,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59991],
+      "vendor": null,
+      "typeName": "Genset Group",
+      "typeId": 60002,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59995],
+      "vendor": null,
+      "typeName": "Camera",
+      "typeId": 60025,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Low-Voltage Drawer Cabinets",
+      "typeId": 50210,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [20801],
+      "vendor": null,
+      "typeName": "PID",
+      "typeId": 20825,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59989],
+      "vendor": null,
+      "typeName": "Measurement Cabinet",
+      "typeId": 50002,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50400],
+      "vendor": null,
+      "typeName": "Three-Phase Bypass Input Module",
+      "typeId": 50403,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59990],
+      "vendor": null,
+      "typeName": "Net Cabinet",
+      "typeId": 51015,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [-1],
+      "vendor": null,
+      "typeName": "Microgrid",
+      "typeId": 59982,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50800],
+      "vendor": null,
+      "typeName": "Air Conditioner Water Valve",
+      "typeId": 50815,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59988],
+      "vendor": null,
+      "typeName": "Cooling Water Inlet Pipe",
+      "typeId": 50611,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [60073],
+      "vendor": null,
+      "typeName": "Bypass",
+      "typeId": 60075,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59998],
+      "vendor": null,
+      "typeName": "DG Sets",
+      "typeId": 50100,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "48V to 24V Module Group",
+      "typeId": 60037,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59987],
+      "vendor": null,
+      "typeName": "Battery Group",
+      "typeId": 50501,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [50900],
+      "vendor": null,
+      "typeName": "Lock",
+      "typeId": 50902,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": "1.0.0",
+      "parentTypes": [59986],
+      "vendor": null,
+      "typeName": "Lithium Battery Group",
+      "typeId": 60014,
+      "typeVerId": 1,
+      "protocolType": null
+    },
+    {
+      "versionDesc": null,
+      "parentTypes": null,
+      "vendor": null,
+      "typeName": "Root",
+      "typeId": -1,
+      "typeVerId": -1,
+      "protocolType": null
+    }
+  ],
+  "description": "get manager object type success",
+  "pageSize": 1000,
+  "totalPage": 1,
+  "currentPage": 1,
+  "hasNextPage": false
+}
